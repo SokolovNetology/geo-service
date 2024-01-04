@@ -6,3 +6,4 @@ public interface MessageSender {
 
     String send(Map<String, String> headers);
 }
+
